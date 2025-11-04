@@ -24,7 +24,7 @@ except Exception as e:
     st.stop() 
 
 st.title("🌸 AI WAIFU Generate") 
-st.write("Wujudkan halu anda menjadi WIAFU yang siap di tatap kapan saja") 
+st.write("Wujudkan halu anda menjadi WAIFU yang siap di tatap kapan saja") 
 
 prompt = st.text_area(
     "Masukkan Prompt:",

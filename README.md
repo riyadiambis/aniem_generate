@@ -4,7 +4,7 @@ Lihat Aplikasi Live di Sini!
 
 https://waifugenai.streamlit.app/
 
-Ini adalah proyek aplikasi web sederhana yang dibuat untuk "mewujudkan halu menjadi WIAFU". Aplikasi ini memungkinkan pengguna memasukkan deskripsi (prompt), dan AI akan menghasilkan gambar karakter anime (waifu) berdasarkan deskripsi tersebut.
+Ini adalah proyek aplikasi web sederhana yang dibuat untuk "mewujudkan halu menjadi WAIFU". Aplikasi ini memungkinkan pengguna memasukkan deskripsi (prompt), dan AI akan menghasilkan gambar karakter anime (waifu) berdasarkan deskripsi tersebut.
 
 Proyek ini dibuat menggunakan Python dengan framework Streamlit dan menggunakan model AI DALL-E 3 dari OpenAI untuk menghasilkan gambar.
 
