@@ -9,22 +9,15 @@ Ini adalah proyek aplikasi web sederhana yang dibuat untuk "mewujudkan halu menj
 
 Proyek ini dibuat menggunakan Python dengan framework Streamlit dan menggunakan model AI DALL-E 3 dari OpenAI untuk menghasilkan gambar.
 
-(Ganti URL di atas dengan link ke screenshot aplikasi Anda yang sudah jadi)
-
 💻 Teknologi yang Digunakan
 
-Python: Bahasa pemrograman utama.
-
-Streamlit: Framework untuk membuat antarmuka web (UI) dengan cepat.
-
-OpenAI API: Menggunakan model DALL-E 3 untuk backend penghasil gambar.
-
-Git & GitHub: Untuk version control dan hosting repositori.
-
-Streamlit Community Cloud: Untuk deployment (hosting) aplikasi secara gratis.
+- Python: Bahasa pemrograman utama.
+- Streamlit: Framework untuk membuat antarmuka web (UI) dengan cepat.
+- OpenAI API: Menggunakan model DALL-E 3 untuk backend penghasil gambar.
+- Git & GitHub: Untuk version control dan hosting repositori.
+- Streamlit Community Cloud: Untuk deployment (hosting) aplikasi secara gratis.
 
 🚀 Cara Menjalankan Proyek Ini Secara Lokal
-
 Jika Anda ingin menjalankan proyek ini di komputer Anda sendiri:
 
 1. Clone Repositori
@@ -71,6 +64,8 @@ streamlit run anime-generate.py
 
 (Nama file anime-generate.py ini harus sama dengan nama file Python utama Anda, seperti di screenshot Anda).
 
+
+
 📁 Struktur File Proyek
 
 /aniem_generate
@@ -79,6 +74,8 @@ streamlit run anime-generate.py
 ├── .gitignore            <-- Memberi tahu Git untuk mengabaikan .env
 ├── anime-generate.py     <-- Kode utama aplikasi Streamlit
 └── requirements.txt      <-- Daftar pustaka yang dibutuhkan (streamlit, openai, etc.)
+
+
 
 
 💡 Pelajaran Penting dari Proyek Ini
