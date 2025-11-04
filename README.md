@@ -1,7 +1,8 @@
 🌸 AI WAIFU Generate
 
 Lihat Aplikasi Live di Sini!
-waifugenai.streamlit.app
+
+https://waifugenai.streamlit.app/
 
 Ini adalah proyek aplikasi web sederhana yang dibuat untuk "mewujudkan halu menjadi WIAFU". Aplikasi ini memungkinkan pengguna memasukkan deskripsi (prompt), dan AI akan menghasilkan gambar karakter anime (waifu) berdasarkan deskripsi tersebut.
 
