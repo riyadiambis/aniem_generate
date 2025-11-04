@@ -4,6 +4,7 @@ Lihat Aplikasi Live di Sini!
 
 https://waifugenai.streamlit.app/
 
+
 Ini adalah proyek aplikasi web sederhana yang dibuat untuk "mewujudkan halu menjadi WAIFU". Aplikasi ini memungkinkan pengguna memasukkan deskripsi (prompt), dan AI akan menghasilkan gambar karakter anime (waifu) berdasarkan deskripsi tersebut.
 
 Proyek ini dibuat menggunakan Python dengan framework Streamlit dan menggunakan model AI DALL-E 3 dari OpenAI untuk menghasilkan gambar.
@@ -35,6 +36,7 @@ cd aniem_generate
 (Ganti URL di atas dengan URL repositori GitHub Anda yang benar)
 
 2. Buat Virtual Environment (Sangat Direkomendasikan)
+
 Ini agar library Python Anda tidak tercampur.
 
 # Buat environment
@@ -45,16 +47,15 @@ python -m venv venv
 
 
 3. Install Semua Kebutuhan
+
 File requirements.txt sudah berisi semua library yang dibutuhkan.
 
 pip install -r requirements.txt
 
 
 4. Siapkan API Key Anda
+
 Buat file baru di dalam folder proyek Anda dengan nama .env.
-
-.env
-
 
 Buka file .env tersebut dan isi dengan API key OpenAI Anda (yang sudah Anda beli kreditnya $5):
 
@@ -62,6 +63,7 @@ OPENAI_API_KEY="sk-kunci-rahasia-anda-tempel-di-sini"
 
 
 5. Jalankan Aplikasi!
+
 Gunakan perintah Streamlit di terminal Anda:
 
 streamlit run anime-generate.py
