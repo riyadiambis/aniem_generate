@@ -1,7 +1,5 @@
 .env
 
-
 venv/*.venv/env/
-
 
 pycache/*.pyc
